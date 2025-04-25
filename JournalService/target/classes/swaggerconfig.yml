@@ -1,0 +1,6 @@
+openapi:
+  title: Journal Service API
+  version: 1.0.0
+  description: API documentation for journaled user events
+  servers:
+    - url: http://localhost:8082
