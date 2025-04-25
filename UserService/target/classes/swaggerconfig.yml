@@ -1,0 +1,7 @@
+openapi:
+  title: User Service API
+  version: 1.0.0
+  description: API documentation for managing users and publishing events
+  servers:
+    - url: http://localhost:8081
+      description: Local server
